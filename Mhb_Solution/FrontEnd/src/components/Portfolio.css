@@ -1,0 +1,18 @@
+.head-title{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+.titles{
+    font-size: 40px;
+    color: #fff;
+    text-decoration: underline;
+}
+.portfolio{
+    padding: 40px 0;
+    background-color: #422c02;
+}
+.portfolio-gallery{
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.blog-img{
+    width: 100%;
+    margin: 10px 0;
+}
+.blog-title{
+font-size: 28px;
+color: #fff;
+}
+.blog-text{
+font-size: 16px;
+color: #fff;
+}
+.blog-date{
+    color: #fff;
+    }
+.blog{
+    background-color: #422c02;
+}

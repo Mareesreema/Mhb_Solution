@@ -1,0 +1,26 @@
+.head-title{
+    width: 100%;
+    text-align: center;
+}
+.titles{
+    font-size: 40px;
+    color: #fff;
+    text-decoration: underline;
+    padding: 0 0 30px 0;
+}
+.team{
+    padding: 0 0 40px 0;
+}
+.team-img{
+    width: 250px;
+}
+.team-members{
+    width: 100%;
+    text-align: center;
+}
+.team-role{
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    padding: 5px;
+}

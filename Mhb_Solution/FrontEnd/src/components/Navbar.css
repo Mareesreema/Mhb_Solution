@@ -1,0 +1,42 @@
+.navbar-default {
+    border: none;
+    margin-bottom: 0;
+  }
+  
+  .navbar-default .navbar-nav > li > a {
+    color: white;
+  }
+  
+  .navbar-default .navbar-nav > li > a:hover,
+  .navbar-default .navbar-nav > li > a:focus {
+    color: #f0f0f0;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.428571429;
+    margin-left: 10px;
+  }
+  .nav-mains{
+    height: 76px !important;
+
+  }
+  .navbar-toggle {
+    border-color: white;
+  }
+  
+  .navbar-toggle .icon-bar {
+    background-color: white;
+  }
+  .navbar-right{
+    padding: 10px;
+  }
+  .btn-right-icon{
+    padding: 0 0 0 490px !important;
+  }

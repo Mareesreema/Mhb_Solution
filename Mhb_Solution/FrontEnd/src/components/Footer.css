@@ -1,0 +1,46 @@
+footer {
+    background-color: #5e3e05;
+    color: white;
+    padding: 20px 0;
+    position: relative;
+}
+footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('path_to_world_map_image.png');
+    background-size: cover;
+    opacity: 0.2;
+    z-index: -1;
+}
+.footer-heading {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.footer-links {
+    list-style-type: none;
+    padding-left: 0;
+}
+.footer-links li {
+    margin-bottom: 5px;
+}
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.subscribe-form .form-control {
+    border-radius: 0;
+}
+.subscribe-form .btn {
+    border-radius: 0;
+    background-color: #FF8C00;
+    color: white;
+}
+.copyright {
+    margin-top: 50px;
+    font-size: 12px;
+}
